@@ -1,7 +1,7 @@
 # Projeto: desafio-dio-prompts-for-podcast-generate-by-ia
 Projeto baseado no desafio do curso DIO: Criando um Podcast com IAs Generativas - Bootcamp Universia - Fundamentos de IA Generativa
 # Descrição do Projeto - Podcast
-Criação de Pocast voltado para o público feminino baseado modelo IA generativo GPT com a pretensão de ser divulgado no Spotify. Para a criação desse Podcast foi criado um personagem como mascote do projeto.
+Criação de Podcast voltado para o público feminino baseado no modelo IA generativo GPT com a pretensão de ser divulgado no Spotify. Para a criação desse Podcast foi criado um personagem como mascote do projeto.
 
 # Status do projeto
 O projeto ainda está em desenvolvimento devido a necessidade de uma programação com mais conteúdo.
@@ -9,16 +9,18 @@ O projeto ainda está em desenvolvimento devido a necessidade de uma programaç�
 # Funcionalidades e demonstração
 O Podcast deverá narrar histórias sobre tecnologia apresentando foco em Nuvem sugerindo ferramentas e conceitos.
 
-Análise dos testes
-# Verifica a entrada do prompt e a saída 
+# Verifica a entrada do prompt e a saída do ChatGPT
 
 # Conclusão
-Em alguns momentos as respostas vieram simples. Seriam necessários mais treinamentos com o modelo, alterações na ...
+Em alguns momentos as respostas vieram simples. Seriam necessários o uso de prompts mais avançados e treinamentos com o modelo.
 
-Tecnologias utilizadas
-AI Studio - Ambiente de desenvolvimento de modelo IA generativo Gemini.
-Colab - Plataforma de desenvolvimento em nuvem.
+# Tecnologias utilizadas
 GitHub - Plataforma de hospedagem de código-fonte e arquivos e versionamento Git.
-Pessoas desenvolvedoras do projeto
+Chat.openai.com - Plataforma de AI ChatGPT
+Midjourney - criação de imagens usando AI
+ElevenLabs - Gerador de aúdio utilizando AI
+
+# Pessoas desenvolvedoras do projeto
 Felipe Silva Aguiar - Podcast inicial de exemplo
+https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia
 Luciana Xavier da Silva - Podcast pessoal e documentação
