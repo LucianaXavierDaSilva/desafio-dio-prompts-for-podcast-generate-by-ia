@@ -12,7 +12,7 @@ O projeto ainda está em desenvolvimento devido a necessidade de uma programaç�
 # Funcionalidades e demonstração
 O Podcast deverá narrar histórias sobre tecnologia apresentando foco em Nuvem sugerindo ferramentas e conceitos.
 
-**Episódio 1** [Clique aqui para ouvir o Episódio 1](https://raw.githubusercontent.com/LucianaXavierDaSilva/desafio-dio-prompts-for-podcast-generate-by-ia/main/AudioElevenLabsEpisodio1EDITADOBitrate1MB.mp3)
+**Episódio 1** [Clique aqui para ouvir o Episódio 1](https://raw.githubusercontent.com/LucianaXavierDaSilva/desafio-dio-prompts-for-podcast-generate-by-ia/main/AudioElevenLabsEpisodio1EDITADOBitrate528KB.mp3)
 
 *Observação: Ao clicar no link, o arquivo de áudio será baixado para o seu computador. Você pode reproduzi-lo com qualquer player de mídia.*
   
