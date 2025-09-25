@@ -27,8 +27,8 @@ Em alguns momentos as respostas vieram simples. Sendo necessário o uso de promp
 
 # Tecnologias utilizadas
 * [GitHub](https://github.com/) - Repositório remoto para hospedagem de código-fonte, arquivos e versionamento Git.
-* [ChatGPT](Chat.openai.com) - Plataforma de AI ChatGPT. Foi utilizado para os prompts de criação de: roteiros e imagens.
-* [Midjourney](midjourney.com) - Criação de imagens usando AI. O Midjourney não pode ser utilizado, pois no momento da criação deste Podcast o mesmo não disponibilizava plano de teste gratuito.
+* [ChatGPT](https://chat.chatbot.app) - Plataforma de AI ChatGPT. Foi utilizado para os prompts de criação de: roteiros e imagens.
+* [Midjourney](https://www.midjourney.com) - Criação de imagens usando AI. O Midjourney não pode ser utilizado, pois no momento da criação deste Podcast o mesmo não disponibilizava plano de teste gratuito.
 * [ElevenLabs](https://elevenlabs.io/) - Gerador de aúdio utilizando AI.
 
 # Pessoas desenvolvedoras do projeto
