@@ -15,6 +15,7 @@ O Podcast deverá narrar histórias sobre tecnologia apresentando foco em Nuvem 
 IA foi de grande utilidade compreendendo os prompt corretamente e retornando saídas detalhadas reduzindo o tempo e tornando a criação do Podcast mais criativa.
 * [Prompt para escolha do nome do Podcast](https://chatgpt.com/share/68d462ce-dc64-8009-bbe7-861cd489dd96)
 * [Prompt para criação da imagem da podcaster](https://chatgpt.com/share/68d48a20-03f0-8009-8684-81a4b0f28227)
+* [Prompt com variáveis para criação do roteiro do primeiro episódio](https://chatgpt.com/s/t_68d5ad34cdf08191bc7c89d7c5c8951d)
 
 # Conclusão
 Em alguns momentos as respostas vieram simples. Sendo necessário o uso de prompts mais avançados e treinamentos com o modelo.
