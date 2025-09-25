@@ -20,7 +20,7 @@ O Podcast deverá narrar histórias sobre tecnologia apresentando foco em Nuvem 
 </audio>
 
 <script>
-  document.querySelector('a[href="seu-arquivo-de-audio.mp3"]').addEventListener('click', function(event) {
+  document.querySelector('a[href="AudioElevenLabsEpisodio1EDITADO.mp3"]').addEventListener('click', function(event) {
     event.preventDefault();
     var audio = document.getElementById('audioPlayer');
     if (audio.paused) {
