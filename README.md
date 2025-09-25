@@ -14,7 +14,7 @@ O Podcast deverá narrar histórias sobre tecnologia apresentando foco em Nuvem 
 
 **Episódio 1**
   <audio controls>
-    <source src="AudioElevenLabsEpisodio1EDITADO.mp3" type="audio/mpeg">
+    <source src="AudioElevenLabsEpisodio1EDITADOBitrateBaixo.mp3" type="audio/mpeg">
     Seu navegador não suporta a tag de áudio.
   </audio>
   
