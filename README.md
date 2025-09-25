@@ -3,6 +3,7 @@ Projeto baseado no desafio do curso DIO: Criando um Podcast com IAs Generativas 
 # Descrição do Projeto - Podcast
 ## Trilhas da Nuvem – Caminhos e desafios da infraestrutura moderna
 Criação de Podcast voltado para o público feminino baseado no modelo IA generativo GPT com a pretensão de ser divulgado no Spotify. Para a criação desse Podcast foi criado uma personagem como mascote do projeto.
+
 ![podcaster](https://github.com/LucianaXavierDaSilva/desafio-dio-prompts-for-podcast-generate-by-ia/blob/main/podcaster_half.png)
 
 # Status do projeto
@@ -10,6 +11,25 @@ O projeto ainda está em desenvolvimento devido a necessidade de uma programaç�
 
 # Funcionalidades e demonstração
 O Podcast deverá narrar histórias sobre tecnologia apresentando foco em Nuvem sugerindo ferramentas e conceitos.
+
+<a href="AudioElevenLabsEpisodio1EDITADO.mp3">Episódio 1</a>
+
+<audio controls style="display:none;" id="audioPlayer">
+  <source src="AudioElevenLabsEpisodio1EDITADO.mp3" type="audio/mpeg">
+  Seu navegador não suporta a tag de áudio.
+</audio>
+
+<script>
+  document.querySelector('a[href="seu-arquivo-de-audio.mp3"]').addEventListener('click', function(event) {
+    event.preventDefault();
+    var audio = document.getElementById('audioPlayer');
+    if (audio.paused) {
+      audio.play();
+    } else {
+      audio.pause();
+    }
+  });
+</script>
 
 # Verifica a entrada do prompt e a saída do ChatGPT
 IA foi de grande utilidade compreendendo os prompt corretamente e retornando saídas detalhadas reduzindo o tempo e tornando a criação do Podcast mais criativa.
