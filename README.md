@@ -24,4 +24,5 @@ Em alguns momentos as respostas vieram simples. Sendo necessário o uso de promp
 
 # Pessoas desenvolvedoras do projeto
 * [Felipe Silva Aguiar](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia) - *Podcast inicial de exemplo para o curso.*
-* [Luciana Xavier](https://github.com/lucianaxavierdasilva) - *Podcast para o desafio e documentação.*
+* [Luciana Xavier - GitHub](https://github.com/lucianaxavierdasilva) - *Podcast para o desafio e documentação.*
+* [Luciana Xavier - LinkedIn](https://www.linkedin.com/in/luciana-xavier-da-silva-61052614/)
