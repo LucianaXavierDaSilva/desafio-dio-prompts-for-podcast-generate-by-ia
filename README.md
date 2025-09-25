@@ -12,11 +12,8 @@ O projeto ainda está em desenvolvimento devido a necessidade de uma programaç�
 # Funcionalidades e demonstração
 O Podcast deverá narrar histórias sobre tecnologia apresentando foco em Nuvem sugerindo ferramentas e conceitos.
 
-**Episódio 1**
-  <audio controls>
-    <source src="AudioElevenLabsEpisodio1EDITADOBitrateBaixo.mp3" type="audio/mpeg">
-    Seu navegador não suporta a tag de áudio.
-  </audio>
+**Episódio 1** [Clique aqui para ouvir o Episódio 1](https://raw.githubusercontent.com/LucianaXavierDaSilva/desafio-dio-prompts-for-podcast-generate-by-ia/main/AudioElevenLabsEpisodio1EDITADOBitrateBaixo.mp3)
+*Observação: Ao clicar no link, o arquivo de áudio será baixado para o seu computador. Você pode reproduzi-lo com qualquer player de mídia.*
   
 # Verifica a entrada do prompt e a saída do ChatGPT
 IA foi de grande utilidade compreendendo os prompt corretamente e retornando saídas detalhadas reduzindo o tempo e tornando a criação do Podcast mais criativa.
