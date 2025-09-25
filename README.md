@@ -11,7 +11,6 @@ O projeto ainda está em desenvolvimento devido a necessidade de uma programaç�
 
 # Funcionalidades e demonstração
 O Podcast deverá narrar histórias sobre tecnologia apresentando foco em Nuvem sugerindo ferramentas e conceitos.
-
 **Episódio 1**
   <audio controls>
     <source src="AudioElevenLabsEpisodio1EDITADOBitrateBaixo.mp3" type="audio/mpeg">
