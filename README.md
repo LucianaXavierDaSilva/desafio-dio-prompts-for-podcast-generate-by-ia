@@ -2,7 +2,7 @@
 Projeto baseado no desafio do curso DIO: Criando um Podcast com IAs Generativas - Bootcamp Universia - Fundamentos de IA Generativa
 # Descrição do Projeto - Podcast
 Criação de Podcast voltado para o público feminino baseado no modelo IA generativo GPT com a pretensão de ser divulgado no Spotify. Para a criação desse Podcast foi criado uma personagem como mascote do projeto.
-![podcaster](https://https://github.com/LucianaXavierDaSilva/desafio-dio-prompts-for-podcast-generate-by-ia/blob/main/podcaster.png)
+![podcaster](https://github.com/LucianaXavierDaSilva/desafio-dio-prompts-for-podcast-generate-by-ia/blob/main/podcaster.png)
 
 # Status do projeto
 O projeto ainda está em desenvolvimento devido a necessidade de uma programação com mais conteúdo.
