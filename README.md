@@ -17,13 +17,11 @@ IA foi de grande utilidade compreendendo os prompt corretamente e retornando sa�
 Em alguns momentos as respostas vieram simples. Sendo necessário o uso de prompts mais avançados e treinamentos com o modelo.
 
 # Tecnologias utilizadas
-GitHub - Plataforma de hospedagem de código-fonte, arquivos e versionamento Git.
-Chat.openai.com - Plataforma de AI ChatGPT
-Foi utilizado para os prompts de criação de roteiro e de imagens.
-Midjourney - criação de imagens usando AI não pode ser utilizado, pois no momento da criação deste Podcast o mesmo não disponibilizava plano de teste gratuito.
-ElevenLabs - Gerador de aúdio utilizando AI
+* [GitHub](https://github.com/) - Plataforma de hospedagem de código-fonte, arquivos e versionamento Git.
+* [ChatGPT](Chat.openai.com) - Plataforma de AI ChatGPT. Foi utilizado para os prompts de criação de roteiro e de imagens.
+* [Midjourney](midjourney.com) - criação de imagens usando AI não pode ser utilizado, pois no momento da criação deste Podcast o mesmo não disponibilizava plano de teste gratuito.
+* [ElevenLabs](https://elevenlabs.io/) - Gerador de aúdio utilizando AI
 
 # Pessoas desenvolvedoras do projeto
-Felipe Silva Aguiar - Podcast inicial de exemplo para o curso
-https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia
-Luciana Xavier da Silva - Podcast para o desafio e documentação
+* [Felipe Silva Aguiar](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia) *Podcast inicial de exemplo para o curso*
+* [Luciana Xavier](https://github.com/lucianaxavierdasilva) *Podcast para o desafio e documentação*
